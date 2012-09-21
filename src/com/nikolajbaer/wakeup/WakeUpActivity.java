@@ -1,4 +1,4 @@
-package come.nikolajbaer.wakeup;
+package com.nikolajbaer.wakeup;
 
 import android.app.Activity;
 import android.os.Bundle;
